@@ -1,0 +1,33 @@
+{
+    "name": "Nexion",
+    "website": "https://nexionpulse.com/",
+    "description": "Nexion is a DeFi ecosystem on PulseChain featuring a ve(3,3) DEX, auto-compounding vaults, lending, and prediction markets.",
+    "explorer": "https://scan.pulsechain.com/token/0xF2Da3942616880E52e841E5C504B5A9Fba23FFF0",
+    "type": "PRC20",
+    "symbol": "NEON",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF2Da3942616880E52e841E5C504B5A9Fba23FFF0",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "website",
+            "url": "https://nexionpulse.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/NexionPulse"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/NexionPulse"
+        },
+        {
+            "name": "docs",
+            "url": "https://nexion-1.gitbook.io/nexion"
+        }
+    ],
+    "chain": 369
+}
