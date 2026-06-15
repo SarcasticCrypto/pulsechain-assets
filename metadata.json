@@ -1,0 +1,17 @@
+{
+  "language": "en",
+  "sources": [
+    {
+      "type": "website",
+      "url": "https://hasbropulse.com",
+      "content": "Official website"
+    }
+  ],
+  "chainId": 369,
+  "address": "0x041e2ab0a4af5066035cd464e66a10cf5a9cddd7",
+  "name": "Optimus Prime",
+  "symbol": "PRIME",
+  "decimals": 18,
+  "logoURI": "https://console.filebase.com/object/pls-tokens/0x041e2ab0a4af5066035cd464e66a10cf5a9cddd7.png",
+  "description": "Optimus Prime Meme PulseChain token."
+}
