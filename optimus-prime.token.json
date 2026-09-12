@@ -1,0 +1,16 @@
+{
+  "name": "Optimus Prime",
+  "symbol": "PRIME",
+  "address": "0x041e2Ab0a4AF5066035Cd464E66A10Cf5a9cdDd7",
+  "chainId": 369,
+  "decimals": 18,
+  "logoURI": "https://primetokenpls.xyz/pack/token-512.png",
+  "website": "https://primetokenpls.xyz",
+  "description": "Optimus Prime Token — In honor of the great Optimus Prime",
+  "explorer": "https://scan.mypinata.cloud/ipfs/bafybeidn64pd2u525lmoipjl4nh3ooa2imd7huionjsdepdsphl5slfowy/#/token/0x041e2Ab0a4AF5066035Cd464E66A10Cf5a9cdDd7?tab=contract",
+  "social": {
+    "twitter": "https://x.com/Sarcastic_0xbb",
+    "telegram": "https://t.me/PrimeTokenPLS"
+  },
+  "tags": ["PRIME", "Honor of a Leader"]
+}
