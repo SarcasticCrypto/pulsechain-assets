@@ -4,13 +4,13 @@
   "address": "0x041e2Ab0a4AF5066035Cd464E66A10Cf5a9cdDd7",
   "chainId": 369,
   "decimals": 18,
-  "logoURI": "https://raw.githubusercontent.com/SarcasticCrypto/pulsechain-assets/add/optimus-prime-token/blockchains/pulsechain/assets/0x041e2ab0a4af5066035cd464e66a10cf5a9cddd7/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/SarcasticCrypto/pulsechain-assets/main/blockchains/369/assets/0x041e2ab0a4af5066035cd464e66a10cf5a9cddd7/logo.png",
   "website": "https://primetokenpls.xyz",
   "description": "Optimus Prime Token — In honor of the great Optimus Prime",
   "explorer": "https://scan.mypinata.cloud/ipfs/bafybeidn64pd2u525lmoipjl4nh3ooa2imd7huionjsdepdsphl5slfowy/#/token/0x041e2Ab0a4AF5066035Cd464E66A10Cf5a9cdDd7",
   "social": {
     "twitter": "https://x.com/Sarcastic_0xbb",
-    "telegram": "https://t.me/PrimeTokenPLS"
+ "telegram": "https://t.me/PrimeTokenPLS"
   },
   "tags": ["PRIME", "Honor of a Leader"]
 }
